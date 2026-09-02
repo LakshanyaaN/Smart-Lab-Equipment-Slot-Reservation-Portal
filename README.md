@@ -11,7 +11,7 @@ Software Engineering Laboratory — Team 01
 
 ## Team Repository
 
-This repository contains the work, assignments, lab exercises, and project deliverables for SE Lab Team 03.
+This repository contains the work, assignments, lab exercises, and project deliverables for SE Lab Team 01.
 
 ## Contents
 
